@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+p {
+font-size:25px;
+margin: 40px;
+padding: inherit;
+}
